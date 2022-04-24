@@ -49,3 +49,20 @@ ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no, ti.from_date DESC;
+
+-- Delieverable 3
+
+-- How many roles will need to be fill per title and department?
+SELECT ut.dept_name, ut.title, COUNT(ut.title) 
+INTO rolls_to_fill
+FROM (SELECT title, dept_name from unique_titles_department) as ut
+GROUP BY ut.dept_name, ut.title
+ORDER BY ut.dept_name DESC;
+
+-- Qualified staff, retirement-ready to mentor next generation.
+SELECT ut.dept_name, ut.title, COUNT(ut.title) 
+INTO qualified_staff
+FROM (SELECT title, dept_name from unique_titles_department) as ut
+WHERE ut.title IN ('Senior Engineer', 'Senior Staff', 'Technique Leader', 'Manager')
+GROUP BY ut.dept_name, ut.title
+ORDER BY ut.dept_name DESC;
