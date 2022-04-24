@@ -33,15 +33,15 @@ Goals list for this analysis:
 
 - To prepare for this impending "Silver Tsunami" we can write the following code to generate two additional tables.
 
-![del3.png](Data/del3.png)
+![del3_1.png](Data/del3_1.png)
 
 - The two tables give us the Sum of retirement-ready employees group by title and department.
 
-![Extra_RolesToFill.png](Data/Extra_RolesToFill.png)
+![del3_2.png](Data/del3_2.png)
 
 - As well as the Sum of qualified, retirement-ready employees group by title and department
 
-![Extra_QualifiedStaff.png](Data/Extra_RolesToFill.png)
+![del3_3.png](Data/del3_3.png)
 
 - This will help us find the best suited staff to move up the ranks of the company.
 
