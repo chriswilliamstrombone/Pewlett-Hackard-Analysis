@@ -12,11 +12,11 @@
 
 - Our analysis found around 64% (57,668/90,398 = 64%) of senior titles are held by employees of retirement age.
 
-![Unique Titles.png](Data/Unique Titles.png)]
+![Unique Titles.png](Data/Unique_Titles.png)]
 
 - The image bleow is a list of candidates that qualify to become members of the mentorship program.
 
-![Mentorship Eligibility.png](Data/Mentorship Eligibility.png)]
+![Mentorship Eligibility.png](Data/Mentorship_Eligibility.png)]
 
 ## Summary
 
