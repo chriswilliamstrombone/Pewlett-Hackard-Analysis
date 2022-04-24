@@ -50,7 +50,7 @@ WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no, ti.from_date DESC;
 
--- Delieverable 2
+-- Delieverable 3
 
 
 -- How many roles will need to be fill per title and department?
