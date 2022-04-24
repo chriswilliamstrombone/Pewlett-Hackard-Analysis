@@ -21,6 +21,7 @@
 ## Summary
 
 - With 64% of their employees eligible for retirement, and others being redirected to their mentorship initiatives, an extensive hiring process in the upcoming years will be required to offsef the loss of both senior level and working staff. Since a significant amount of future retirees hold Senior positions the mentorship program should emphasize gathering as much knowledge from retiring senior staff, to prevent a loss of thier expertise that will be leaving the company in the years to come. 
+- Since there are only 1,940 employees who are able to mentor and train new hires, if all employees eligible for retirement were to leave the company, the training staff would be overwhelmed.
 
 ## Resources
 
